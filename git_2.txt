@@ -1,0 +1,35 @@
+O Git é um sistema de controle de versão amplamente utilizado e possui vários comandos que permitem gerenciar e colaborar em projetos de software. Abaixo estão alguns dos principais comandos do Git:
+
+1. `git init`: Inicializa um novo repositório Git em um diretório.
+
+2. `git clone`: Clona um repositório existente para uma nova cópia local.
+
+3. `git add`: Adiciona as alterações dos arquivos ao índice (staging area) para serem preparadas para o commit.
+
+4. `git commit`: Grava uma nova versão (commit) dos arquivos que foram adicionados ao índice.
+
+5. `git status`: Exibe o status atual do repositório, mostrando as alterações pendentes e outras informações úteis.
+
+6. `git push`: Envia as alterações locais para um repositório remoto.
+
+7. `git pull`: Obtém as alterações do repositório remoto e as mescla com o branch local.
+
+8. `git branch`: Lista, cria ou exclui branches.
+
+9. `git checkout`: Altera o branch atual ou restaura arquivos a partir de um commit específico.
+
+10. `git merge`: Realiza a fusão de um branch com o branch atual.
+
+11. `git remote`: Gerencia conexões com repositórios remotos.
+
+12. `git log`: Exibe o histórico de commits.
+
+13. `git diff`: Mostra as diferenças entre os arquivos alterados e o último commit.
+
+14. `git stash`: Armazena temporariamente as alterações não confirmadas para que você possa alternar de branch sem efetuar o commit.
+
+15. `git reset`: Desfaz alterações em commits anteriores.
+
+16. `git rm`: Remove arquivos do repositório e do sistema de arquivos.
+
+17. `git tag`: Cria, lista ou verifica tags associadas a pontos específicos na história do projeto.

@@ -1,0 +1,25 @@
+sudo apt-get install git
+git config --global user.name "Rafael"
+git config --global user.email ""
+
+#git clone 
+
+#git checkout + nome = para entrar em uma branch ou sair
+git branch = olha todas as linhas do tempo
+git show = monstra a ultima ação
+git log = monstra td q foi feito
+
+git init = cria um repositório
+git status
+git add + nome do arquivo
+git commit
+git commit -am "" = atulizar e salvar botando uma mensagem
+#git push = pede usuário + Token
+git branch + nome = cria e da nome a uma linha do tempo alternativa
+git checkout -b + nome = cria uma branch e muda para ela
+git checkout + ponto na hist + -- nome do que vc quer= recupera alguma mudança
+git merge + nome do arquivo = faz a união da linha principal com a sec 
+git branch -D + nome = deleta a branch
+git pull = traz mudanças feitas na nuvem
+git config credential.helper store
+
