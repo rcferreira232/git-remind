@@ -1,0 +1,19 @@
+Escolher bons nomes para branches em um projeto Git pode facilitar a organização e a compreensão do fluxo de trabalho. Aqui estão alguns padrões e sugestões de nomes que você pode considerar:
+
+1. **feature/nome-da-funcionalidade:** Use esse formato para branches que implementam novas funcionalidades no projeto. Exemplo: `feature/login-form`.
+
+2. **bugfix/nome-do-bug:** Essa convenção é útil para branches que são criadas para corrigir bugs específicos. Exemplo: `bugfix/database-connection`.
+
+3. **hotfix/nome-do-hotfix:** Quando há a necessidade de resolver problemas críticos em produção rapidamente, os branches `hotfix` podem ser criados. Exemplo: `hotfix/security-issue`.
+
+4. **release/versão:** Use essa convenção para preparar o código para uma futura versão. Pode envolver a criação de um branch para testes e ajustes finais antes do lançamento. Exemplo: `release/v1.2.0`.
+
+5. **chore/tarefa:** Use esse formato para tarefas de manutenção ou melhorias menores que não são diretamente relacionadas a uma funcionalidade ou correção de bug. Exemplo: `chore/update-dependencies`.
+
+6. **docs/atualizacao-documentacao:** Quando você está atualizando a documentação do projeto, é útil criar um branch específico para isso. Exemplo: `docs/update-readme`.
+
+7. **refactor/nome-do-refatoramento:** Esse formato pode ser usado quando você está realizando mudanças significativas na estrutura do código sem adicionar novas funcionalidades ou corrigir bugs. Exemplo: `refactor/restructure-auth-module`.
+
+8. **test/nome-do-teste:** Se você está trabalhando em testes automatizados, criar um branch específico para isso pode ser útil. Exemplo: `test/add-unit-tests`.
+
+Lembre-se de que essas sugestões são apenas exemplos e você pode adaptar os nomes conforme o fluxo de trabalho e as convenções da sua equipe. O importante é escolher nomes descritivos que indiquem claramente o propósito do branch, tornando-o mais fácil de entender e gerenciar ao longo do desenvolvimento do projeto.
